@@ -74,14 +74,14 @@
     padding: 3px 200px;
     justify-content: center;
     align-items: center;
-    height: 550px;
+    height: 600px;
 }
 #home::before{
     content: "";
     position: absolute;
     top: 0px;
     left: 0px;
-    background: url('../foood images/img3.jpg') no-repeat center center/cover;
+    background: url('../Images/lidye-1Shk_PkNkNw-unsplash.jpg') no-repeat center center/cover;
     height: 100%;
     width: 100%;
     z-index: -1;
@@ -91,13 +91,13 @@
 
 
 #home h1{
-    color: rgb(17, 16, 16);
+    color: whitesmoke;
     text-align: center;
     font-family: 'Satisfy', cursive;
 }
 
 #home p{
-    color: rgb(15, 14, 14);
+    color:whitesmoke;
     font-size: 1.3rem;
     text-align: center;
     font-family: 'Lobster', cursive;
